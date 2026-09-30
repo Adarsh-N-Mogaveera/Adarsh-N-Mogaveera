@@ -11,28 +11,28 @@ I am a final-year Computer Science and Engineering student and a Full-Stack Deve
 ### 🛠️ Tech Stack & Tools
 
 **Languages**
-![Java](https://shields.io)
-![Python](https://shields.io)
-![JavaScript](https://shields.io)
-![SQL](https://shields.io)
-![C](https://shields.io)
+![Java]
+![Python]
+![JavaScript]
+![SQL]
+![C]
 
 **Frameworks & Libraries**
-![Spring Boot](https://shields.io)
-![React](https://shields.io)
-![TypeScript](https://shields.io)
-![Hibernate](https://shields.io)
+![Spring Boot]
+![React]
+![TypeScript]
+![Hibernate]
 
 **Databases**
-![MySQL](https://shields.io)
-![MongoDB](https://shields.io)
-![Supabase](https://shields.io)
+![MySQL]
+![MongoDB]
+![Supabase]
 
 **Tools & Platforms**
-![Git](https://shields.io)
-![GitHub](https://shields.io)
-![GCP](https://shields.io)
-![Maven](https://shields.io)
+![Git]
+![GitHub]
+![GCP]
+![Maven]
 
 ---
 
@@ -63,6 +63,6 @@ I actively contribute to major open-source communities like **freeCodeCamp**. I 
 ---
 
 ### 📬 Let's Connect!
-- 💼 [LinkedIn](YOUR_LINKEDIN_URL)
+- 💼 [LinkedIn](https://www.linkedin.com/in/adarsh-n-mogaveera/)
 - 🌐 [Personal Portfolio Website](https://adarsh-n-mogaveera.github.io/Personal-Portfolio/)
 - 📧 anmogaveera@gmail.com
