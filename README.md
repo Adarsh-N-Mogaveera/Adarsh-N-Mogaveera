@@ -11,11 +11,11 @@ I am a final-year Computer Science and Engineering student and a Full-Stack Deve
 ### 🛠️ Tech Stack & Tools
 
 **Languages**
-![Java]
-![Python]
-![JavaScript]
-![SQL]
-![C]
+[Java]
+[Python]
+[JavaScript]
+[SQL]
+[C]
 
 **Frameworks & Libraries**
 ![Spring Boot]
