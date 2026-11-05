@@ -1,68 +1,69 @@
-# Hi there, I'm Adarsh N Mogaveera 👋
+# Hi there, I'm Adarsh N Mogaveera! 👋
 
-I am a final-year Computer Science and Engineering student and a Full-Stack Developer specializing in the Java ecosystem. I focus on building robust, AI-integrated web applications, designing efficient RESTful APIs, and contributing to open-source communities.
+I am a passionate **Full-Stack Developer, Open Source Contributor, and final-year Computer Science Engineering student** based in Bangalore, India. I specialize in building high-performance, responsive web applications, architecting robust APIs, and turning complex datasets into actionable insights. 
 
-- 📍 Based in Bangalore, India
-- 🎓 Pursuing B.E. in Computer Science Engineering at Sai Vidya Institute of Technology (2023 - 2027)
-- 🚀 Passionate about Full-Stack Development, Data Structures & Algorithms, and Open Source
+With experience navigating massive global codebases and integrating AI-driven features, I love bridging the gap between intricate backend architectures and flawless, intuitive user experiences.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🚀 Quick Overview
 
-**Languages**
-[Java]
-[Python]
-[JavaScript]
-[SQL]
-[C]
-
-**Frameworks & Libraries**
-![Spring Boot]
-![React]
-![TypeScript]
-![Hibernate]
-
-**Databases**
-![MySQL]
-![MongoDB]
-![Supabase]
-
-**Tools & Platforms**
-![Git]
-![GitHub]
-![GCP]
-![Maven]
+- 🎓 **Education:** B.E. in Computer Science Engineering at Sai Vidya Institute of Technology (Expected 2027) | Current CGPA: 8.65/10.00
+- 🌐 **Open Source:** Active contributor to major global communities like **freeCodeCamp** (navigating TypeScript/Java codebases, fixing complex rendering bugs, and resolving mathematical edge cases)
+- 🛠️ **Current Focus:** Building scalable web architectures, asynchronous event-driven pipelines, and interactive data visualization dashboards
 
 ---
 
-### 💻 Featured Projects
+### 🛠️ Tech Stack & Toolbox
 
-📂 **[Personal Finance & Portfolio Analytics Platform](YOUR_REPOSITORY_LINK)**
-* Built a full-stack platform using React, TypeScript, Spring Boot, and MySQL.
-* Integrated Google Gemini AI to parse natural language prompts for seamless automated budgeting and expense tracking.
-* Engineered a Spring Boot market data service with real-time stock/ETF quotes and dynamic CAGR metrics computation.
-
-📂 **[DSA Solution Automation Platform](YOUR_REPOSITORY_LINK)**
-* Created an asynchronous, event-driven pipeline using Spring Boot 3.3 and Java 21 to automate LeetCode submission logging.
-* Utilized Google Gemini AI and GitHub REST APIs to generate markdown explanations and non-blocking commits.
-* Secured user data with session-cookie authentication, BCrypt hashing, and AES-GCM encryption for API keys at rest.
-
----
-
-### 🤝 Open Source & Contributions
-I actively contribute to major open-source communities like **freeCodeCamp**. I focus on fixing UI bugs, scaling database entries, implementing TypeScript utilities, and maintaining codebase standards using conventional commit practices.
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Java, JavaScript (ES6+), TypeScript, Python, SQL, C, HTML5, CSS3 |
+| **Frontend Frameworks** | React.js, Redux Toolkit, Context API, Hooks, Tailwind CSS |
+| **Backend Ecosystem** | Spring Boot, Spring Security, Spring Data JPA, Node.js, Express.js, RESTful APIs, Socket.io |
+| **Databases & Caching** | MySQL, PostgreSQL, MongoDB, In-Memory TTL Caching |
+| **Cloud & DevOps** | Google Cloud Platform (GCP), Amazon Web Services (AWS), Docker, Git / GitHub, Maven, Webpack, Vite |
+| **Data Analytics** | Power BI, Advanced Excel, Exploratory Data Analysis (EDA), Predictive Modeling |
 
 ---
 
-### 🏆 Certifications
-* Google Cloud Career Launchpad: Cloud Engineer Track
-* MongoDB Java Developer Path
-* NPTEL Certification: Design and Analysis of Algorithms
+### 🏆 Featured Projects
+
+#### 💰 Personal Finance & Portfolio Analytics Platform
+*Spring Boot, Spring AI, React.js, MySQL, Google Gemini AI API*
+- Engineered client-side logic to convert complex JSON payloads from Google Gemini AI into beautiful, structured financial tracking widgets.
+- Built a Spring Boot market data service featuring real-time stock/ETF quotes, dynamic CAGR metrics (1Y/3Y/5Y), and strategic in-memory TTL caching for a lag-free experience.
+
+#### 🤖 DSA Solution Automation Platform
+*Spring Boot 3.3, Java 21 (Virtual Threads), Spring Security, MySQL, Spring WebClient, GitHub REST API*
+- Architected an asynchronous, event-driven code ingestion pipeline using Java 21 Virtual Threads to handle non-blocking multi-step automation sequences.
+- Integrated Google Gemini AI to perform automatic code analysis, generate structured Markdown explanations, and dynamically commit fixes to GitHub repositories.
+
+#### 📋 Real-Time Kanban Collaboration Platform
+*React.js, Node.js, Express.js, MongoDB, Socket.io, Zustand*
+- Designed a high-concurrency task management platform utilizing Socket.io room broadcasting and a custom fractional indexing algorithm to eliminate database race conditions.
+- Implemented optimistic UI state mutations via Zustand for zero-latency drag-and-drop interactions with seamless rollbacks for network failures.
+
+#### 📊 Workforce Analytics Dashboard
+*Power BI, SQL, Excel, Power Platform*
+- Engineered an interactive Power BI dashboard tracking 1.47K+ employee records to analyze key corporate HR metrics and performance trends.
+- Designed dynamic cross-filtering and data models using Decomposition Trees and Key Influencers to isolate the core drivers behind a 16.12% attrition rate.
 
 ---
 
-### 📬 Let's Connect!
-- 💼 [LinkedIn](https://www.linkedin.com/in/adarsh-n-mogaveera/)
-- 🌐 [Personal Portfolio Website](https://adarsh-n-mogaveera.github.io/Personal-Portfolio/)
-- 📧 anmogaveera@gmail.com
+### 🛡️ Certifications
+
+- **Google Cloud Career Launchpad:** Cloud Engineer Track
+- **MongoDB:** Java Developer Path
+- **NPTEL:** Design and Analysis of Algorithms
+
+---
+
+### 🤝 Connect with Me
+
+Let's collaborate, talk tech, or discuss open-source opportunities!
+
+- 📧 **Email:** anmogaveera@gmail.com
+- 💼 **LinkedIn:** [://linkedin.com](https://linkedin.com/in/adarsh-n-mogaveera) 
+- 🌐 **Portfolio:** [Portfolio Link](https://adarsh-n-mogaveera.github.io/Personal-Portfolio/) 
+- 🧠 **LeetCode:** [LeetCode Profile](https://leetcode.com/u/adarsh_n_mogaveera/)
