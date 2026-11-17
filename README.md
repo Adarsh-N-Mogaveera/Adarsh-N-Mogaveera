@@ -1,6 +1,6 @@
 # Hi there, I'm Adarsh N Mogaveera!
 
-I am a passionate **Full-Stack Developer, Open Source Contributor, and final-year Computer Science Engineering student** based in Bangalore, India. I specialize in building high-performance, responsive web applications, architecting robust APIs, and turning complex datasets into actionable insights. 
+**Full-Stack Developer, Open Source Contributor, and final-year Computer Science Engineering student** based in Bangalore, India. I specialize in building high-performance, responsive web applications, architecting robust APIs, and turning complex datasets into actionable insights. 
 
 With experience navigating massive global codebases and integrating AI-driven features, I love bridging the gap between intricate backend architectures and flawless, intuitive user experiences.
 
